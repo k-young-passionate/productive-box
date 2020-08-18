@@ -14,5 +14,5 @@ jobs:
         uses: k-young-passionate/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 7f693189717c3ccb505aa5759212424f
+          GIST_ID: e2f6a021ebd8656359bdd4b1fd18cd1e
           TIMEZONE: Asia/Seoul
